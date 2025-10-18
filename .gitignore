@@ -1,0 +1,10 @@
+# Virtual environment folder
+emotion_env/
+venv/ # Add this too, in case someone uses the default name
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Optional: VS Code specific files
+.vscode/
