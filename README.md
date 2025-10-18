@@ -20,10 +20,9 @@ This project uses a Convolutional Neural Network (CNN) trained on the FER2013 da
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-    cd YOUR_REPOSITORY_NAME
+    git clone [https://github.com/ankit2814/real-time-emotion-detector.git](https://github.com/ankit2814/real-time-emotion-detector.git)
+    cd real-time-emotion-detector
     ```
-    *(Replace `YOUR_USERNAME` and `YOUR_REPOSITORY_NAME`)*
 
 2.  **Create and activate a virtual environment:**
     ```bash
